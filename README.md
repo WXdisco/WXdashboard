@@ -1,5 +1,5 @@
 # wxdashboard
-Weather dashboard application based on DCU dashboard (devCU Software) a IPS 4.x application.
+Weather dashboard application based on DCU Dashboard (devCU Software) a IPS 4.x application.
 
 ![devCUHead](https://www.devcu.com/assets/images/githubhead_2.gif?V=1.3)
 
