@@ -27,4 +27,4 @@ Please! Contact Me
 
 ## Copyrights
 
-Created for devCU Software ©2018
+Created for WX Disco ©2018
