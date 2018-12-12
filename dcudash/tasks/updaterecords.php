@@ -1,11 +1,14 @@
 <?php
 /**
- * @brief		updaterecords Task
- * @package		devCU dashboard (for wxdisco WXdashboard)
- * @author		PlanetMaster
- * @copyright	(c) 2018 WXdisco
- * @subpackage	Dashes Content
- * @since		31 Oct 2018
+ * @brief		Dashboard Application Class
+ * @package		DCU Dashboard customized for WX Dashboard (WX Disco)
+ * @author		Gary Cornell for devCU Software Open Source Projects
+ * @copyright   	(c) 2018 devCU Software
+ * @contact         gary@devcu.com
+ * @site            https://www.devcu.com
+ * @Source          https://github.com/WXdisco/wxdashboard  
+ * @subpackage  	Dashboard Content
+ * @since		04 NOV 2018
  * @version		1.0
  */
 
