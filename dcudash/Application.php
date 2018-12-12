@@ -3,12 +3,12 @@
  * @brief		Dashboard Application Class
  * @package		DCU Dashboard customized for WX Dashboard (WX Disco)
  * @author		Gary Cornell for devCU Software Open Source Projects
- * @copyright   	(c) 2018 devCU Software
- * @contact         gary@devcu.com
- * @site            https://www.devcu.com
- * @Source          https://github.com/WXdisco/wxdashboard  
- * @subpackage  	Dashboard Content
- * @since		04 NOV 2018
+ * @copyright		c) 2018 devCU Software
+ * @contact		gary@devcu.com
+ * @site		https://www.devcu.com
+ * @Source		https://github.com/WXdisco/wxdashboard  
+ * @subpackage		Dashboard Content
+ * @since		12 DEC 2018
  * @version		1.0
  */
  
@@ -67,6 +67,8 @@ spl_autoload_register( function( $class )
 				'locked'				=> 'record_locked',
 				'featured'				=> 'record_featured',
 				'observations'			=> 'record_observations',
+				'storm_watch'			=> 'record_storm_watch',
+				'storm_warning'			=> 'record_storm_warning',
 				'active_event'			=> 'record_active_event',
 				'rating'				=> 'record_rating',
 				'rating_hits'			=> 'rating_hits',
