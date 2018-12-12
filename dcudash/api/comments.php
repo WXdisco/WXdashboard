@@ -1,6 +1,6 @@
 <?php
 /**
- * @brief		Dashboard Application Class
+ * @brief		Dashboard API Class
  * @package		DCU Dashboard customized for WX Dashboard (WX Disco)
  * @author		Gary Cornell for devCU Software Open Source Projects
  * @copyright		c) 2018 devCU Software
