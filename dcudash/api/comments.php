@@ -3,11 +3,11 @@
  * @brief		Dashboard Application Class
  * @package		DCU Dashboard customized for WX Dashboard (WX Disco)
  * @author		Gary Cornell for devCU Software Open Source Projects
- * @copyright   	(c) 2018 devCU Software
- * @contact         gary@devcu.com
- * @site            https://www.devcu.com
- * @Source          https://github.com/WXdisco/wxdashboard  
- * @subpackage  	Dashboard Content
+ * @copyright		c) 2018 devCU Software
+ * @contact		gary@devcu.com
+ * @site		https://www.devcu.com
+ * @Source		https://github.com/WXdisco/wxdashboard  
+ * @subpackage		Dashboard Content
  * @since		12 DEC 2018
  * @version		1.0
  */
