@@ -1,4 +1,4 @@
- <?php
+<?php
 /**
  * @brief		Custom Blocks Block
  * @package		DCU Dashboard customized for WX Dashboard (WX Disco)
