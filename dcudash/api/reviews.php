@@ -7,9 +7,8 @@
  * @contact		gary@devcu.com
  * @site		https://www.devcu.com
  * @Source		https://github.com/WXdisco/wxdashboard  
- * @subpackage		Dashboard Content
  * @since		12 DEC 2018
- * @version		1.0
+ * @version		1.0.0 Beta 1
  */
 
 namespace IPS\dcudash\api;
