@@ -1,0 +1,62 @@
+[
+    {
+        "key": "dcudash_error_dash",
+        "default": "0",
+        "report": "bool"
+    },
+    {
+        "key": "dcudash_promote_cat",
+        "default": "0",
+        "report": "bool"
+    },
+    {
+        "key": "dcudash_promote_enabled",
+        "default": "0",
+        "report": "full"
+    },
+    {
+        "key": "dcudash_promote_groups",
+        "default": "*",
+        "report": "bool"
+    },
+    {
+        "key": "dcudash_root_dash_url",
+        "default": "",
+        "report": "bool"
+    },
+    {
+        "key": "dcudash_root_path",
+        "default": "",
+        "report": "bool"
+    },
+    {
+        "key": "dcudash_use_different_gateway",
+        "default": "0",
+        "report": "full"
+    },
+    {
+        "key": "dash_extension",
+        "default": ".html",
+        "report": "full"
+    },
+    {
+        "key": "sitemap_databases_count",
+        "default": "-1",
+        "report": "full"
+    },
+    {
+        "key": "sitemap_databases_priority",
+        "default": "1",
+        "report": "full"
+    },
+    {
+        "key": "sitemap_dashes_count",
+        "default": "-1",
+        "report": "full"
+    },
+    {
+        "key": "sitemap_dashes_priority",
+        "default": "1",
+        "report": "full"
+    }
+]
