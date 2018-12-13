@@ -1,0 +1,160 @@
+{
+    "dashboard": {
+        "overview": {
+            "tab": "dcudash",
+            "controller": "overview",
+            "do": "",
+            "restriction": "settings_manage"
+        },
+        "themes": {
+            "tab": "dcudash",
+            "controller": "themes",
+            "do": "",
+            "restriction": "settings_manage"
+        },
+        "plugins": {
+            "tab": "dcudash",
+            "controller": "plugins",
+            "do": "",
+            "restriction": "settings_manage"
+        },
+        "widgets": {
+            "tab": "dcudash",
+            "controller": "widgets",
+            "do": "",
+            "restriction": "settings_manage"
+        },
+        "modules": {
+            "tab": "dcudash",
+            "controller": "modules",
+            "do": "",
+            "restriction": "settings_manage"
+        },
+    },
+    "dashes": {
+        "dashes": {
+            "tab": "dcudash",
+            "controller": "dashes",
+            "do": "",
+            "restriction": "dash_manage"
+        },
+        "blocks": {
+            "tab": "dcudash",
+            "controller": "blocks",
+            "do": "",
+            "restriction": "block_manage"
+        },
+        "templates": {
+            "tab": "dcudash",
+            "controller": "templates",
+            "do": "",
+            "restriction": "template_manage"
+        },
+        "media": {
+            "tab": "dcudash",
+            "controller": "media",
+            "do": "",
+            "restriction": "media_manage"
+        }
+    },
+    "databases": {
+        "databases": {
+            "tab": "dcudash",
+            "controller": "databases",
+            "do": "",
+            "restriction": "databases_manage"
+        }
+    },
+    "settings": {
+        "general": {
+            "tab": "dcudash",
+            "controller": "general",
+            "do": "",
+            "restriction": "settings_manage"
+        },
+        "stations": {
+            "tab": "dcudash",
+            "controller": "stations",
+            "do": "",
+            "restriction": "settings_manage"
+        },
+        "cams": {
+            "tab": "dcudash",
+            "controller": "cams",
+            "do": "",
+            "restriction": "settings_manage"
+        },
+        "sitesapi": {
+            "tab": "dcudash",
+            "controller": "sitesapi",
+            "do": "",
+            "restriction": "settings_manage"
+        },
+        "storage": {
+            "tab": "dcudash",
+            "controller": "storage",
+            "do": "",
+            "restriction": "settings_manage"
+        },
+        "menu": {
+            "tab": "dcudash",
+            "controller": "menu",
+            "do": "",
+            "restriction": "settings_manage"
+        },
+        "permissions": {
+            "tab": "dcudash",
+            "controller": "permissions",
+            "do": "",
+            "restriction": "settings_manage"
+        }
+    },
+    "members": {
+        "settings": {
+            "tab": "dcudash",
+            "controller": "settings",
+            "do": "",
+            "restriction": "settings_manage"
+        },
+        "profiles": {
+            "tab": "dcudash",
+            "controller": "profiles",
+            "do": "",
+            "restriction": "settings_manage"
+        }
+    },
+    "stats": {
+        "network": {
+            "tab": "dcudash",
+            "controller": "network",
+            "do": "",
+            "restriction": "settings_manage"
+        },
+        "member": {
+            "tab": "dcudash",
+            "controller": "members",
+            "do": "",
+            "restriction": "settings_manage"
+        }
+    },
+    "about": {
+        "about": {
+            "tab": "dcudash",
+            "controller": "about",
+            "do": "",
+            "restriction": "settings_manage"
+        },
+        "version": {
+            "tab": "dcudash",
+            "controller": "version",
+            "do": "",
+            "restriction": "settings_manage"
+        },
+        "update": {
+            "tab": "dcudash",
+            "controller": "update",
+            "do": "",
+            "restriction": "settings_manage"
+        }
+    }
+}
