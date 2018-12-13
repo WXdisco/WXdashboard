@@ -1,0 +1,56 @@
+{
+    "app=dcudash&module=databases&controller=categories&do=manage": {
+        "lang_key": "menu__dcudash_databases_categories",
+        "restriction": null,
+        "keywords": [
+            "Dashboards Categories"
+        ]
+    },
+    "app=dcudash&module=databases&controller=databases": {
+        "lang_key": "menu__dcudash_databases_databases",
+        "restriction": "databases_manage",
+        "keywords": [
+            "database",
+            "databases"
+        ]
+    },
+    "app=dcudash&module=databases&controller=records&do=manage": {
+        "lang_key": "menu__dcudash_databases_records",
+        "restriction": null,
+        "keywords": [
+            "dashboard",
+            "dashboards"
+        ]
+    },
+    "app=dcudash&module=dashes&controller=blocks": {
+        "lang_key": "menu__dcudash_dashes_blocks",
+        "restriction": "block_manage",
+        "keywords": [
+            "blocks"
+        ]
+    },
+    "app=dcudash&module=dashes&controller=media": {
+        "lang_key": "menu__dcudash_dashes_media",
+        "restriction": "media_manage",
+        "keywords": [
+            "media",
+            "media manager"
+        ]
+    },
+    "app=dcudash&module=dashes&controller=dashes": {
+        "lang_key": "menu__dcudash_dashes_dashes",
+        "restriction": "dash_manage",
+        "keywords": [
+            "add dash",
+            "dashboards",
+            "dashes"
+        ]
+    },
+    "app=dcudash&module=dashes&controller=templates": {
+        "lang_key": "menu__dcudash_dashes_templates",
+        "restriction": "template_manage",
+        "keywords": [
+            "templates"
+        ]
+    }
+}
