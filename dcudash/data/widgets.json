@@ -1,0 +1,68 @@
+{
+    "Database": {
+        "class": "\\IPS\\Widget",
+        "restrict": [
+            "dcudash"
+        ],
+        "default_area": "",
+        "allow_reuse": false,
+        "menu_style": "menu",
+        "embeddable": false
+    },
+    "Wysiwyg": {
+        "class": "\\IPS\\Widget\\StaticCache",
+        "restrict": [],
+        "default_area": "",
+        "allow_reuse": true,
+        "menu_style": "modal",
+        "embeddable": false
+    },
+    "DatabaseFilters": {
+        "class": "\\IPS\\Widget",
+        "restrict": [
+            "dcudash"
+        ],
+        "default_area": "",
+        "allow_reuse": false,
+        "menu_style": "menu",
+        "embeddable": false
+    },
+    "Categories": {
+        "class": "\\IPS\\Widget\\PermissionCache",
+        "restrict": [
+            "dcudash"
+        ],
+        "default_area": "",
+        "allow_reuse": false,
+        "menu_style": "menu",
+        "embeddable": false
+    },
+    "Blocks": {
+        "class": "\\IPS\\Widget",
+        "restrict": [],
+        "default_area": "",
+        "allow_reuse": true,
+        "menu_style": "modal",
+        "embeddable": false
+    },
+    "RecordFeed": {
+        "class": "\\IPS\\Widget\\PermissionCache",
+       "restrict": [
+            "dcudash"
+        ],
+        "default_area": "",
+        "allow_reuse": false,
+        "menu_style": "menu",
+        "embeddable": true
+    },
+    "Rss": {
+        "class": "\\IPS\\Widget\\StaticCache",
+        "restrict": [
+            "dcudash"
+        ],
+        "default_area": "",
+        "allow_reuse": true,
+        "menu_style": "modal",
+        "embeddable": true
+    }
+}
