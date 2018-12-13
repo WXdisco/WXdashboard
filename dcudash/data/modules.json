@@ -1,0 +1,22 @@
+{
+    "admin": {
+        "dashes": {
+            "default_controller": "dashes",
+            "protected": 0
+        },
+        "databases": {
+            "default_controller": "databases",
+            "protected": 0
+        }
+    },
+    "front": {
+        "dashes": {
+            "default_controller": "dash",
+            "protected": 0
+        },
+        "database": {
+            "default_controller": "index",
+            "protected": 0
+        }
+    }
+}
