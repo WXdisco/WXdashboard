@@ -1,0 +1,57 @@
+{
+    "dashes": {
+        "dashes": {
+            "dash_add": "dash_add",
+            "dash_edit": "dash_edit",
+            "dash_delete": "dash_delete",
+            "dash_manage": "dash_manage",
+            "dash_permissions": "dash_permissions"
+        },
+        "blocks": {
+            "block_manage": "block_manage",
+            "block_add": "block_add",
+            "block_edit": "block_edit",
+            "block_delete": "block_delete",
+            "block_permissions": "block_permissions"
+        },
+        "templates": {
+            "template_manage": "template_manage",
+            "template_add_edit": "template_add_edit",
+            "template_delete": "template_delete"
+        },
+        "media": {
+            "media_manage": "media_manage",
+            "media_add": "media_add",
+            "media_edit": "media_edit",
+            "media_delete": "media_delete"
+        }
+    },
+    "databases": {
+        "databases": {
+            "databases_manage": "databases_manage",
+            "databases_edit": "databases_edit",
+            "databases_delete": "databases_delete",
+            "databases_add": "databases_add"
+        },
+        "dcudash_fields": {
+            "dcudash_fields_manage": "dcudash_fields_manage",
+            "dcudash_fields_add": "dcudash_fields_add",
+            "dcudash_fields_edit": "dcudash_fields_edit",
+            "dcudash_fields_delete": "dcudash_fields_delete"
+        },
+        "categories": {
+            "categories_manage": "categories_manage",
+            "categories_add": "categories_add",
+            "categories_edit": "categories_edit",
+            "categories_massManageContent": "categories_massManageContent",
+            "categories_delete": "categories_delete",
+            "categories_permissions": "categories_permissions"
+        },
+        "records": {
+            "records_manage": "records_manage",
+            "records_add": "records_add",
+            "records_edit": "records_edit",
+            "records_delete": "records_delete"
+        }
+    }
+}
