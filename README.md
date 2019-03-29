@@ -1,5 +1,5 @@
 # WX Dashboard
-Weather dashboard application based on DCU Dashboard (devCU Software) a IPS 4.x application.
+Weather dashboard application based on DCU Dashboard (devCU Software) a IPS 4.4x application.
 
 ![devCUHead](https://www.devcu.net/mediasrc/githubhead_2.gif?V=1.4)
 
@@ -17,6 +17,36 @@ Weather dashboard application based on DCU Dashboard (devCU Software) a IPS 4.x 
 **Please support our Open Source Projects and keep this software free**
 
 [![donate](https://www.devcu.net/mediasrc/become_a_patron_button.png)](https://www.patreon.com/devcu/)
+
+
+# DCU Dashboard v1.0
+
+```diff
+- WARNING!! THIS IS AN INCOMPLETE DEVELOPMENT VERSION AND SHOULD NOT BE USED IN A PRODUCTION ENVIRONMENT!
+```
+
+<pre>
+    .-"^`\                                        /`^"-.
+  .'   ___\                                      /___   `.
+ /    /.---.                                    .---.\    \
+|    //     '-.  ___________________________ .-'     \\    |
+|   ;|         \/--------------------------//         |;   |
+\   ||       |\_)      devCU Software      (_/|       ||   /
+ \  | \  . \ ;  |   Open Source Projects   || ; / .  / |  /
+  '\_\ \\ \ \ \ |                          ||/ / / // /_/'
+        \\ \ \ \|       WX Dashboard       |/ / / //
+         `'-\_\_\         v 1.0.0          /_/_/-'`
+                '--------------------------'
+</pre>
+
+
+#### Full featured Weather dashboard building application for IPS 4.4 versions
+
+## ** Updated Notes **
+
+03/28/19
+
+- Late Spring Release Anticipated
 
 
 ## License
