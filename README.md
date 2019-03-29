@@ -7,10 +7,7 @@ Weather dashboard application based on DCU Dashboard (devCU Software) a IPS 4.4x
     [![Build](https://img.shields.io/badge/Build-Beta2-lightgrey.svg)](https://www.devcu.com/forums/devcu-tracker/wxdashboard/)
     [![Status](https://img.shields.io/badge/Status-Current-green.svg)](https://www.devcu.com/forums/devcu-tracker/wxdashboard/)
     [![Development](https://img.shields.io/badge/Development-Active-blue.svg)](https://www.devcu.com/forums/devcu-tracker/wxdashboard/)
-
-```diff
-- THIS IS AN INCOMPLETE VERSION UNDER DEVELOPMENT AND SHOULD NOT BE USED IN ANY ENVIRONMENT!!!
-```
+    
 
 ## ** Become a Patron of devCU **
 	
